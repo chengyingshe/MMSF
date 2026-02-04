@@ -1,0 +1,10 @@
+**__pycache__**
+outputs*
+temp/
+datasets/
+scripts/logs/
+scripts/*.log
+
+compare_model_size.py
+*.sh
+*.ipynb
